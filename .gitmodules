@@ -1,0 +1,3 @@
+[submodule "jenkinsfile-multibranch"]
+	path = jenkinsfile-multibranch
+	url = ../jenkinsfile-multibranch
