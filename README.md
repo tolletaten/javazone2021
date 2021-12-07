@@ -13,6 +13,8 @@ Vi trenger flere flink folk til løsningene våre, akkurat nå har vi flere åpn
 * [Erfaren utvikler/plattformutvikler](https://www.finn.no/job/fulltime/ad.html?finnkode=240999726)
 * [Utviklere](https://www.finn.no/job/fulltime/ad.html?finnkode=241002428)
 
+[Se video: ![Se videon](video.png)](https://vimeo.com/654272527)
+
 ## Presentasjonene våre i år
 * [Da EU bydde opp Tolletaten til dans](https://2021.javazone.no/#/program/ce228d9b-f468-4364-b7c0-30b1cec90ef3) ved Hilde Visthoff Drange og Kristine Sæhlie, onsdag 13:30
 > De mest fremgangsrike landene i verden har alle minst èn ting til felles – et velfungerende tollsystem som sikrer etterlevelse av lover og regler for grensekryssende vareførsel. En rivende teknologisk utvikling, økt globalisering og fremveksten av nye handelsplattformer og distribusjonsmåter endrer imidlertid forutsetningene for hvordan tollmyndigheter over hele verden velger å løse samfunnsoppdraget. I Norge har vi tatt kravene til omstilling på dypeste alvor. Med produkttankegang, tverrfaglige team og smidig metodikk er Tolletaten nå på hugget for å utvikle morgendagens offentlige sektor.
