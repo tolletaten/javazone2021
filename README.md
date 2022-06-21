@@ -1,21 +1,17 @@
-# javazone2021
+# javazone2022
 
-Repoet har innhold til JavaZone 2021.  Som ikke ble helt som vi hadde tenkt &ndash; men vi har *2 presentasjoner* &ndash; se under!
+Repoet har innhold til JavaZone 2022.
 
 Et par hint, for deg som har fulgt linken fra Linkedin kan ses i [Main.java](src/main/java/no/toll/javazone/hints/Main.java)...
 
 ## Jobb?
 
-Vi trenger flere flink folk til løsningene våre, akkurat nå har vi flere åpninger på IT:
+Vi trenger flere flink folk til løsningene våre!
 
-* [Frontend-utvikler/fagleder frontend](https://www.finn.no/job/fulltime/ad.html?finnkode=241000506)
-* [Erfaren utvikler/teknisk arkitekt/løsningsarkitekt](https://www.finn.no/job/fulltime/ad.html?finnkode=241001446)
-* [Erfaren utvikler/plattformutvikler](https://www.finn.no/job/fulltime/ad.html?finnkode=240999726)
-* [Utviklere](https://www.finn.no/job/fulltime/ad.html?finnkode=241002428)
 
 [Se video: ![Se videon](video.png)](https://vimeo.com/654272527)
 
-## Presentasjonene våre i år
+## Presentasjonene våre i 2021
 * [Da EU bydde opp Tolletaten til dans](https://2021.javazone.no/#/program/ce228d9b-f468-4364-b7c0-30b1cec90ef3) ved Hilde Visthoff Drange og Kristine Sæhlie, onsdag 13:30
 > De mest fremgangsrike landene i verden har alle minst èn ting til felles – et velfungerende tollsystem som sikrer etterlevelse av lover og regler for grensekryssende vareførsel. En rivende teknologisk utvikling, økt globalisering og fremveksten av nye handelsplattformer og distribusjonsmåter endrer imidlertid forutsetningene for hvordan tollmyndigheter over hele verden velger å løse samfunnsoppdraget. I Norge har vi tatt kravene til omstilling på dypeste alvor. Med produkttankegang, tverrfaglige team og smidig metodikk er Tolletaten nå på hugget for å utvikle morgendagens offentlige sektor.
 Dette tankesettet ble imidlertid satt kraftig på prøve da Tolletatens smidige utviklingsprinsipper møtte EUs mastodontiske fossefallstilnærming, rigide kravspesifikasjoner og lovfestede tidsfrister i arbeidet med å få opp elektronisk forhåndsvarsling av varer fra tredjeland (ICS2). En svært omfattende operasjon som innebar at 29 land innenfor den europeiske sikkerhetssonen skulle koble seg på EUs fellesløsning for å kunne motta og risikovurdere forhåndsinformasjon om gods som skal passere EUs yttergrense. Da arbeidet startet opp var utfordringene betydelige, spørsmålene mange og fristene knappe. Mandag 15. mars gikk løsningen likevel på lufta i henhold til plan. Dermed kunne Norge ivareta sine internasjonale forpliktelser gjennom Sikkerhetsavtalen.

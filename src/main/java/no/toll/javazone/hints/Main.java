@@ -56,6 +56,6 @@ public class Main {
     }
 
     private static String theYearJavaSe16AndJavaSe17WasReleased() {
-        return "2021";
+        return "2022";
     }
 }
