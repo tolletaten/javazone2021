@@ -19,7 +19,7 @@ public class Main {
         final String solution =
                 Arrays.stream(what).map(s -> s.substring(0, 1)).collect(Collectors.joining())
                       .concat(" ")
-                      .concat(theYearJavaSe16AndJavaSe17WasReleased());
+                      .concat(theYearJavaSe18WasReleased());
         System.out.println(solution);
     }
 
@@ -55,7 +55,7 @@ public class Main {
         return "exception";
     }
 
-    private static String theYearJavaSe16AndJavaSe17WasReleased() {
+    private static String theYearJavaSe18WasReleased() {
         return "2022";
     }
 }
