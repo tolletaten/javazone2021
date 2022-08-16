@@ -6,7 +6,7 @@ Et par hint, for deg som har fulgt linken fra Linkedin kan ses i [Main.java](src
 
 ## Jobb?
 
-Vi trenger flere flink folk til løsningene våre!
+Vi trenger flere flink folk til løsningene våre!  Se [karrieresiden vår for IT](https://jobb.toll.no/go/IT/8721002/)
 
 
 [Se video: ![Se videon](video.png)](https://vimeo.com/654272527)
