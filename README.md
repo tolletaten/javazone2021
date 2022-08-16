@@ -4,10 +4,13 @@ Repoet har innhold til JavaZone 2022.
 
 Et par hint, for deg som har fulgt linken fra Linkedin kan ses i [Main.java](src/main/java/no/toll/javazone/hints/Main.java)...
 
+## Dagens oppgave
+
+Vil du delta i dagens konkurranse: lenke kommer her!
+
 ## Jobb?
 
 Vi trenger flere flink folk til løsningene våre!  Se [karrieresiden vår for IT](https://jobb.toll.no/go/IT/8721002/)!
-
 
 [Se video: ![Se videon](video.png)](https://vimeo.com/654272527)
 
