@@ -12,7 +12,7 @@ Vil du delta i dagens konkurranse: lenke kommer her!
 
 Vi trenger flere flink folk til løsningene våre!  Se [karrieresiden vår for IT](https://jobb.toll.no/go/IT/8721002/)!
 
-[Se video: ![Se videon](video.png)](https://vimeo.com/654272527)
+[Se video: ![Se video](video.png)](https://player.vimeo.com/video/668593403?dnt=1&autoplay=false)
 
 ## Presentasjonene våre i 2021
 * [Da EU bydde opp Tolletaten til dans](https://2021.javazone.no/#/program/ce228d9b-f468-4364-b7c0-30b1cec90ef3) ved Hilde Visthoff Drange og Kristine Sæhlie, onsdag 13:30
