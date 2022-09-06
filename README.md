@@ -6,7 +6,11 @@ Et par hint, for deg som har fulgt linken fra Linkedin kan ses i [Main.java](src
 
 ## Dagens oppgave
 
-Vil du delta i dagens konkurranse: lenke kommer her!
+Vil du delta i dagens konkurranse?
+
+onsdag 7. september: (https://response.questback.com/isa/qbv.dll/bylink?p=1npcwJy8iZCltFrUDuK31rn7OBEqZcgF-8xFDDLUVetgCeFWy1sohoMHJbPABett0)
+
+Dagens hint: !hint_tor.jpg!
 
 ## Jobb?
 
