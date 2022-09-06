@@ -11,7 +11,7 @@ Vil du delta i dagens konkurranse?
 onsdag 7. september: [Klikk her](https://response.questback.com/isa/qbv.dll/bylink?p=1npcwJy8iZCltFrUDuK31rn7OBEqZcgF-8xFDDLUVetgCeFWy1sohoMHJbPABett0)
 
 Dagens hint:
- ![Hint onsdag](hint_ons.jpg | width=200)
+ <img alt="Hint onsdag" src="./hint_ons.jpg" width="200" />
 
 ## Jobb?
 
