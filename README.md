@@ -8,7 +8,7 @@ Et par hint, for deg som har fulgt linken fra Linkedin kan ses i [Main.java](src
 
 Vil du delta i dagens konkurranse?
 
-onsdag 7. september: (https://response.questback.com/isa/qbv.dll/bylink?p=1npcwJy8iZCltFrUDuK31rn7OBEqZcgF-8xFDDLUVetgCeFWy1sohoMHJbPABett0)
+onsdag 7. september: [Klikk her](https://response.questback.com/isa/qbv.dll/bylink?p=1npcwJy8iZCltFrUDuK31rn7OBEqZcgF-8xFDDLUVetgCeFWy1sohoMHJbPABett0)
 
 Dagens hint: ![Hint onsdag](hint_ons.jpg)
 
