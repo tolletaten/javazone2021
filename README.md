@@ -2,11 +2,11 @@
 
 Repoet har innhold til JavaZone 2022.
 
-Et par hint, for deg som har fulgt linken fra Linkedin kan ses i [Main.java](src/main/java/no/toll/javazone/hints/Main.java)...
-
 ## Dagens oppgave
 
 Vil du delta i dagens konkurranse?
+
+torsdag 8. september: oppgave og link kommer her på onsdag morgen :-)
 
 onsdag 7. september: Hvis det er sol ved 69.6583269 30.2037012 dagen før bursdagen vår, så kommer jeg over med brusen
 
