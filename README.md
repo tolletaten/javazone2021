@@ -6,7 +6,7 @@ Repoet har innhold til JavaZone 2022.
 
 Vil du delta i dagens konkurranse?
 
-torsdag 8. september: oppgave og link kommer her på onsdag morgen :-)
+torsdag 8. september: oppgave og link kommer her på torsdag morgen :-)
 
 onsdag 7. september: Hvis det er sol ved 69.6583269 30.2037012 dagen før bursdagen vår, så kommer jeg over med brusen
 
