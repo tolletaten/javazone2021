@@ -12,11 +12,6 @@ onsdag 7. september: Hvis det er sol ved 69.6583269 30.2037012 dagen før bursda
 
 **Svar**: _Hvis det ikke er tollkontroll_ (det er sol) _ved Storskog grensestasjon_ (GPS-koordinater) _16. mai_ (dagen før 17. mai) _så kommer jeg over med kokainen_ (brus, coke)
 
-[Klikk her for å levere svaret](https://response.questback.com/isa/qbv.dll/bylink?p=1npcwJy8iZCltFrUDuK31rn7OBEqZcgF-8xFDDLUVetgCeFWy1sohoMHJbPABett0)
-
-Dagens hint:
- <img alt="Hint onsdag" src="./hint_ons.jpg" width="200" />
-
 ## Jobb?
 
 Vi trenger flere flink folk til løsningene våre!  Se [karrieresiden vår for IT](https://jobb.toll.no/go/IT/8721002/)!
