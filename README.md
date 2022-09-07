@@ -11,7 +11,7 @@ Vil du delta i dagens konkurranse?
 onsdag 7. september:
 Hvis det er sol ved 69.6583269 30.2037012 dagen før bursdagen vår, så kommer jeg over med brusen
 
-[Klikk her](https://response.questback.com/isa/qbv.dll/bylink?p=1npcwJy8iZCltFrUDuK31rn7OBEqZcgF-8xFDDLUVetgCeFWy1sohoMHJbPABett0)
+[Klikk her for å levere svaret](https://response.questback.com/isa/qbv.dll/bylink?p=1npcwJy8iZCltFrUDuK31rn7OBEqZcgF-8xFDDLUVetgCeFWy1sohoMHJbPABett0)
 
 Dagens hint:
  <img alt="Hint onsdag" src="./hint_ons.jpg" width="200" />
