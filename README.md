@@ -13,7 +13,7 @@ _Det var overskyet på Ørje i dag, så prøver derfor igjen i morgen over grise
 [Klikk her for å levere svaret](https://response.questback.com/isa/qbv.dll/bylink?p=vlxtSLXhk_qNJ2aZyAMUnTbWWxBZrHicnqR9SGkRi5LM9giBiRaRHd7eN0y7VmcE0)
 
 Dagens hint:
- <img alt="Hint torsdag" src="./hint_tor.jpg" width="200" />
+ <img alt="Hint torsdag" src="./hint_ny.jpg" width="200" />
 
 
 ### onsdag 7. september
