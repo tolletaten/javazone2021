@@ -10,11 +10,7 @@ Vil du delta i dagens konkurranse?
 
 _Det var overskyet på Ørje i dag, så prøver derfor igjen i morgen over grisebukta kl. NY 11. Hvis alt går som planlagt har du pepper til middagen i morgen kveld._
 
-[Klikk her for å levere svaret](https://response.questback.com/isa/qbv.dll/bylink?p=vlxtSLXhk_qNJ2aZyAMUnTbWWxBZrHicnqR9SGkRi5LM9giBiRaRHd7eN0y7VmcE0)
-
-Dagens hint:
- <img alt="Hint torsdag" src="./hint_ny.jpg" width="200" />
-
+**Svar**: _Det var tollkontroll på Ørje_ (sol=klart, overskyet=kontroll) _derfor prøver vi igjen i morgen over Svinesund_ (grise-bukta) _kl. 17_ (11:00 New York tid, 6t før norsk tid) _Hvis alt går som planlagt har du amfetamin (pepper er slang for amfetamin) ved middagstider_
 
 ### onsdag 7. september
 _Hvis det er sol ved 69.6583269 30.2037012 dagen før bursdagen vår, så kommer jeg over med brusen_
