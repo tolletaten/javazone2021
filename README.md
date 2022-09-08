@@ -6,11 +6,20 @@ Repoet har innhold til JavaZone 2022.
 
 Vil du delta i dagens konkurranse?
 
-torsdag 8. september: oppgave og link kommer her på torsdag morgen :-)
+### torsdag 8. september
 
-onsdag 7. september: Hvis det er sol ved 69.6583269 30.2037012 dagen før bursdagen vår, så kommer jeg over med brusen
+_Det var overskyet på Ørje i dag, så prøver derfor igjen i morgen over grisebukta kl. NY 11. Hvis alt går som planlagt har du pepper til middagen i morgen kveld._
 
-**Svar**: _Hvis det ikke er tollkontroll_ (det er sol) _ved Storskog grensestasjon_ (GPS-koordinater) _16. mai_ (dagen før 17. mai) _så kommer jeg over med kokainen_ (brus, coke)
+[Klikk her for å levere svaret](https://response.questback.com/isa/qbv.dll/bylink?p=vlxtSLXhk_qNJ2aZyAMUnTbWWxBZrHicnqR9SGkRi5LM9giBiRaRHd7eN0y7VmcE0)
+
+Dagens hint:
+ <img alt="Hint torsdag" src="./hint_tor.jpg" width="200" />
+
+
+### onsdag 7. september
+_Hvis det er sol ved 69.6583269 30.2037012 dagen før bursdagen vår, så kommer jeg over med brusen_
+
+**Svar**: _Hvis det ikke er tollkontroll_ (sol=klart) _ved Storskog grensestasjon_ (jf. GPS-koordinater) _16. mai_ (dagen før 17. mai, jf. bunadsbildet) _så kommer jeg over med kokainen_ (brus ... coke)
 
 ## Jobb?
 
