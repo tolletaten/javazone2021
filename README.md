@@ -4,7 +4,6 @@ Repoet har innhold til JavaZone 2022.
 
 ## Dagens oppgave
 
-Vil du delta i dagens konkurranse?
 
 ### torsdag 8. september
 
