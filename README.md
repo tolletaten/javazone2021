@@ -11,7 +11,7 @@ Repoet har innhold til JavaZone 2023.
 
 ## Vårt bidrag
 
-Vi har én presentasjon i år -- *Teknologisirkus med mange tilskuere*  -- som omhandler etablering av et anti-corruption layer "mellom oss og verden"
+Vi har én presentasjon i år -- *[Teknologisirkus med mange tilskuere](https://2023.javazone.no/program/7017e9f6-74af-40e1-b966-7a8815e5ffe3)*  -- som omhandler etablering av et anti-corruption layer "mellom oss og verden"
 
 ## Jobb?
 
