@@ -9,6 +9,10 @@ Repoet har innhold til JavaZone 2023.
 
 ### torsdag 7. september
 
+## Vårt bidrag
+
+Vi har én presentasjon i år -- *Teknologisirkus med mange tilskuere*  -- som omhandler etablering av et anti-corruption layer "mellom oss og verden"
+
 ## Jobb?
 
 Vi trenger flere flink folk til løsningene våre!  Se [karrieresiden vår for IT](https://jobb.toll.no/go/IT/8721002/)!
