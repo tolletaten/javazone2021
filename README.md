@@ -17,6 +17,13 @@ Vi har én presentasjon i år -- *[Teknologisirkus med mange tilskuere](https://
 
 Vi trenger flere flink folk til løsningene våre!  Se [karrieresiden vår for IT](https://jobb.toll.no/go/IT/8721002/)!
 
+Vi søker nå etter
+
+* Utviklere, både ferske og erfarne
+* Utvikler for testautomatisering &ndash; denne jobben innebærer autoamtisering av testprosesser på tvers av hele verdikjeden
+* Tjenestedesigner
+* Løsningsarkitekt
+
 [Se video: ![Se video](video.png)](https://player.vimeo.com/video/668593403?dnt=1&autoplay=false)
 
 
