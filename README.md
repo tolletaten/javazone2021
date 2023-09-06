@@ -9,7 +9,11 @@ Repoet har innhold til JavaZone 2023.
 
 *Hvis det er sol på alle helliges kveld, så kommer jeg med bønnene til deg. Jeg kjører over den enorme skogen.*
 
+## **[Lever svaret her!](https://response.questback.com/toll/1voxiflk3a)**
+
 ### torsdag 7. september
+
+kommer i morgen :)
 
 ## Vårt bidrag
 
