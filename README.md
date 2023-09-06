@@ -7,6 +7,8 @@ Repoet har innhold til JavaZone 2023.
 
 ### onsdag 6. september
 
+*Hvis det er sol på alle helliges kveld, så kommer jeg med bønnene til deg. Jeg kjører over den enorme skogen.*
+
 ### torsdag 7. september
 
 ## Vårt bidrag
