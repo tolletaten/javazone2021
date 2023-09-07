@@ -7,13 +7,13 @@ Repoet har innhold til JavaZone 2023.
 
 ### onsdag 6. september
 
-*Hvis det er sol på alle helliges kveld, så kommer jeg med bønnene til deg. Jeg kjører over den enorme skogen.*
-
-## **[Lever svaret her!](https://response.questback.com/toll/1voxiflk3a)**
+Konkurransen er lukket :)
 
 ### torsdag 7. september
 
-kommer i morgen :)
+*Det regnet i dag så jeg måtte snu. Molly og møter deg på flyplassen i Bjørgvin på bursdagen til Harald*
+
+## **[Lever svaret her!](https://response.questback.com/toll/peimt0h4yi)**
 
 ## Vårt bidrag
 
