@@ -11,7 +11,7 @@ Konkurransen er lukket :)
 
 ### torsdag 7. september
 
-*Det regnet i dag så jeg måtte snu. Molly og møter deg på flyplassen i Bjørgvin på bursdagen til Harald*
+*Det regnet i dag så jeg måtte snu. Molly og jeg møter deg på flyplassen i Bjørgvin på bursdagen til Harald*
 
 ## **[Lever svaret her!](https://response.questback.com/toll/peimt0h4yi)**
 
