@@ -11,13 +11,11 @@ Konkurransen er lukket :)
 
 ### torsdag 7. september
 
-*Det regnet i dag så jeg måtte snu. Molly og jeg møter deg på flyplassen i Bjørgvin på bursdagen til Harald*
-
-## **[Lever svaret her!](https://response.questback.com/toll/peimt0h4yi)**
+Konkurransen er avsluttet :)
 
 ## Vårt bidrag
 
-Vi har én presentasjon i år -- *[Teknologisirkus med mange tilskuere](https://2023.javazone.no/program/7017e9f6-74af-40e1-b966-7a8815e5ffe3)*  &ndash; som omhandler etablering av et anti-corruption layer "mellom oss og verden" &ndash; kom og se oss i **rom 2 onsdag klokken 10:50**!
+Vi hadde én presentasjon i år -- *[Teknologisirkus med mange tilskuere](https://2023.javazone.no/program/7017e9f6-74af-40e1-b966-7a8815e5ffe3)*  &ndash; som omhandler etablering av et anti-corruption layer "mellom oss og verden"!
 
 ## Jobb?
 
